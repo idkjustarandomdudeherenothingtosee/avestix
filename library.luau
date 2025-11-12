@@ -1,9 +1,6 @@
 --[[
-    scoot ui library
-    made by samet
-    remade by anhchangm52
-    
-    example/documentation is at the bottom
+    THIS GUI IS A PART OF AVESTIX HUB, IT IS THE MAIN LIBRARY USED FOR ALL GAMES THAT AVESTIX HUB SUPPORTS
+    MADE PRIMARILY BY ELOGICAL
 ]]
 
 if Library then
